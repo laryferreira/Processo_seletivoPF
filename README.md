@@ -22,3 +22,4 @@ Para a seleção, foi solicitado a resolução de um problema da plataforma Proj
 ## OBI 2021:
 
 Para a seleção, foi solicitado a resolução de um problema da plataforma da OBI, promovida pela Unicamp. Das edições anteriores, foram resolvidos *2 problemas*, da FASE I, edição de 2021, também na linguagem Python.
+- Problemas resolvidos:
