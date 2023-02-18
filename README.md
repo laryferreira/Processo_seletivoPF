@@ -19,4 +19,6 @@ Para a seleção, foi solicitado a resolução de um problema da plataforma Proj
   2. [Números pares na sequência de Fibonacci](https://projecteuler.net/problem=2) - [Resolução](https://github.com/laryferreira/Processo_seletivoPF/blob/studies/projectEULER/evenfibonacci.py)
       
       
-## OBI 2021
+## OBI 2021:
+
+Para a seleção, foi solicitado a resolução de um problema da plataforma da OBI, promovida pela Unicamp. Das edições anteriores, foram resolvidos *2 problemas*, da edição de 2021, também na linguagem Python.
