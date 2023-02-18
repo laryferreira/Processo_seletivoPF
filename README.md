@@ -1,6 +1,4 @@
 ## Processo seletivo para estágio na Polícia Federal
-
-## Sumário:
 - [Apresentação]
 - [Project EULER]
 - [OBI 2021]
