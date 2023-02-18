@@ -8,7 +8,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.'''
 
 #1: definir uma variável para receber o resultado
 
-#2: definir o intervalo (1000) em que o programa irá atuar
+#2: um loop no intervalo (1000) em que o programa irá atuar
 
 #3: adicionar as respostas do programa à variável criada no #1
 
