@@ -12,7 +12,7 @@
 
 ## Project EULER:
 
-Para a seleção, foi solicitado a resolução de um problema da plataforma Project EULER. Pelo interesse pessoal na resolução de problemas semelhantes, resolvi os 10 primeiros da plataforma, utilizando meus conhecimentos na linguagem Python.
+Para a seleção, foi solicitado a resolução de um problema da plataforma Project EULER. Pelo interesse pessoal na resolução de problemas semelhantes, resolvi os *10 primeiros problemas*, utilizando meus conhecimentos na linguagem Python.
 
 - Problemas resolvidos: 
   1. [Múltiplos de 3 ou 5](https://projecteuler.net/problem=1) - [Resolução](https://github.com/laryferreira/Processo_seletivoPF/blob/studies/projectEULER/multiples3or5.py)
