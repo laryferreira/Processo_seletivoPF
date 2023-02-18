@@ -20,3 +20,5 @@ for i in range(1,1000): #loop 'for in' que atua no intervalo definido
 
 print(total)
 #perceba que o print da soma final deve ser realizado fora do loop, para que apenas o último resultado seja impresso.
+
+'o output do programa deve ser: 233168'
