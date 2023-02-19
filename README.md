@@ -1,6 +1,5 @@
 
 # Processo seletivo para estágio na Polícia Federal (02/2023)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 - [Apresentação](#Quem-é-Laryssa-Ferreira)
 - [Project EULER](#Project-EULER)
