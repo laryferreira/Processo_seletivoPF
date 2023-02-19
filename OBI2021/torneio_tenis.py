@@ -1,3 +1,6 @@
+
+#Solução por: Laryssa de Oliveira Ferreira - Engenharia de Computação - UnB
+
 'Esse problema permite a aplicação de manipulação de listas, em um contexto de torneio de tênis'
 'Devemos definir quem são os vencedores e perdedores, e em qual lista estarão'
 
