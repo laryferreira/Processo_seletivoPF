@@ -9,6 +9,7 @@
 ## Quem é Laryssa Ferreira?
   Laryssa Ferreira é graduanda em Engenharia de Computação pela Universidade de Brasília (UnB). Possui interesse em programação competitiva, inteligência artificial e resolução de problemas. Proativa e disposta a aprender novas ferramentas.
   - *Conhecimentos*: Python, Git, Github
+  - *Em aprendizado:* Javascript, NodeJS
   - [Outros Projetos](https://github.com/laryferreira/ResistorColorCode)
   
 
