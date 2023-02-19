@@ -4,6 +4,7 @@
 - [Apresentação](#Quem-é-Laryssa-Ferreira)
 - [Project EULER](#Project-EULER)
 - [OBI 2021](#OBI-2021)
+- [Contato](#Contato)
 
 ## Quem é Laryssa Ferreira?
   Laryssa Ferreira é graduanda em Engenharia de Computação pela Universidade de Brasília (UnB). Possui interesse em programação competitiva, inteligência artificial e resolução de problemas. Proativa e disposta a aprender novas ferramentas.
@@ -22,4 +23,6 @@ Para a seleção, foi solicitado a resolução de um problema da plataforma Proj
 ## OBI 2021:
 
 Para a seleção, foi solicitado a resolução de um problema da plataforma da OBI, promovida pela Unicamp. Das edições anteriores, o problema "Torneio de Tênis" da FASE I, edição de 2021, foi resolvido, também na linguagem Python.
-- [Torneio de tênis](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/torneio/) -> [Resolução]
+- [Torneio de tênis](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/torneio/) -> [Resolução](https://github.com/laryferreira/Processo_seletivoPF/blob/studies/OBI2021/torneio_tenis.py)
+
+## Contato:
