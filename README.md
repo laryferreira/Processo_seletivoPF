@@ -25,9 +25,9 @@ Para a seleção, foi solicitado a resolução de um problema da plataforma Proj
 Para a seleção, foi solicitado a resolução de um problema da plataforma da OBI, promovida pela Unicamp. Das edições anteriores, o problema "Torneio de Tênis" da FASE I, edição de 2021, foi resolvido, também na linguagem Python.
 - [Torneio de tênis](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/torneio/) -> [Resolução](https://github.com/laryferreira/Processo_seletivoPF/blob/studies/OBI2021/torneio_tenis.py)
 
-## Contato:
+## ⎙ Contato:
 - Email: contato.laryssaf@gmail.com
 
-- Linkedin: [Linkedin](https://www.linkedin.com/in/laryssaoliferreira)
+- Linkedin: [Laryssa Ferreira](https://www.linkedin.com/in/laryssaoliferreira)
 
 
