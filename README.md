@@ -26,6 +26,7 @@ Para a seleção, foi solicitado a resolução de um problema da plataforma da O
 - [Torneio de tênis](https://olimpiada.ic.unicamp.br/pratique/ps/2021/f1/torneio/) -> [Resolução](https://github.com/laryferreira/Processo_seletivoPF/blob/studies/OBI2021/torneio_tenis.py)
 
 ## Contato:
+Email: contato.laryssaf@gmail.com
+[Linkedin](https://www.linkedin.com/in/laryssaoliferreira)
 
 
-[Retornar ao início](#Processo-seletivo-para-estágio-na-Polícia-Federal-(02/2023))
