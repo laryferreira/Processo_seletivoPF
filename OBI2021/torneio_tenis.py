@@ -16,14 +16,14 @@ for i in range(6): #loop para receber as 6 entradas
     else:
         perde.append(resultado)
 
-qnt_ganha = len(ganha)
+qnt_ganha = len(ganha) #retorna o tamanho da lista
 qnt_perde = len(perde)
 
-if qnt_ganhou == 5 or qnt_ganhou == 6: #condições definidas no enunciado
+if qnt_ganha == 5 or qnt_ganha == 6: #condições definidas no enunciado
     print('1')
-elif qnt_ganhou == 3 or qnt_ganhou == 4:
+elif qnt_ganha == 3 or qnt_ganha == 4:
     print('2')
-elif qnt_ganhou == 1 or qnt_ganhou == 2:
+elif qnt_ganha == 1 or qnt_ganha == 2:
     print('3')
 else: #não colocado em nenhum dos três
     print('-1')
