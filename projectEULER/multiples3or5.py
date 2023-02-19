@@ -1,5 +1,5 @@
-#link do problema: https://projecteuler.net/problem=1
-#solução por: Laryssa de Oliveira Ferreira - Engenharia de Computação - UnB
+
+#Solução por: Laryssa de Oliveira Ferreira - Engenharia de Computação - UnB
 
 
 '''para resolver esse problema, devemos:
