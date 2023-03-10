@@ -22,26 +22,29 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 #6: imprimir a soma dos números encontrada
 
 '''
-def fibonacci(valor_maximo): #criar uma função que recebe o parâmetro do valor máximo
-
+def fibonacci(valor_maximo):
+    
     v1 = 1
-
+    
     v2 = 2
-
-    return v1, v2
-
-    while v2 <= valor_maximo: #loop criado para qualquer valor menor ou igual ao valor máximo (a ser definido)
-
-        novo_num = v1 + v2 #resultado da operação da sequência de fibonacci
-
-        return novo_num
-
+    
+    termos = [v1, v2] 
+    
+    while v2 <= valor_maximo:
+        
+        novo_num = v1 + v2
+        
+        termos.append(novo_num)
+        
         v1 = v2
+        
+        v2 = novo_num
+        
+    return termos
 
-        v2 = novo_num #é necessário reatribuir valores para que a iteração continue
+termos_seq = fibonacci(4000000)
 
-termos_seq = list(fibonacci(4000000)) #criar uma lista que recebe os termos gerados pela função no intervalo até 4 milhões
-
-soma_pares = sum(termo for termo in termos_seq if termo % 2 == 0) #soma dos termos pares na lista de termos criada
+soma_pares = sum(termo for termo in termos_seq if termo % 2 == 0)
 
 print(soma_pares)
+
